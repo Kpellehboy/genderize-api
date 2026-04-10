@@ -18,6 +18,7 @@ A FastAPI proxy that enriches Genderize.io responses with confidence scoring and
 
 ## Deployment
 Deployed on Render. Automatic deploys from main branch.
+url: https://genderize-api.onrender.com 
 
 ## Assumptions & Edge Cases
 - Non-string `name` in query params is impossible (HTTP query strings are always strings), but code includes a check for completeness.
