@@ -29,3 +29,7 @@ url: https://genderize-api.onrender.com
 - Add Redis caching to reduce external API calls.
 - Add rate limiting per IP.
 - Add request ID for tracing.
+
+# Author
+**Elijah M. Flomo**
+GitHub Url:https://github.com/Kpellehboy/genderize-api.git
